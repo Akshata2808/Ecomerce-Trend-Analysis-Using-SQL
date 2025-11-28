@@ -86,22 +86,6 @@ SELECT Carrier, COUNT(ShipmentID) AS TotalShipments
 FROM Shipments
 GROUP BY Carrier;
 
-📈 Skills Learned During Internship
-
-Through this project at Imarticus Learning, I gained hands-on experience in:
-
-Writing industry-level SQL queries
-
-Analysing structured business datasets
-
-Understanding joins, views, and aggregations
-
-Solving real e-commerce business problems
-
-Presenting findings with SQL results
-
-Improving analytical thinking and problem-solving
-
 
 📎 Project File
 
